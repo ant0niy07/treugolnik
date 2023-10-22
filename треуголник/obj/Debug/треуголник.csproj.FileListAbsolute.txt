@@ -1,0 +1,8 @@
+C:\Users\ant0n\OneDrive\Рабочий стол\C# projects\треуголник\треуголник\bin\Debug\треуголник.exe.config
+C:\Users\ant0n\OneDrive\Рабочий стол\C# projects\треуголник\треуголник\bin\Debug\треуголник.exe
+C:\Users\ant0n\OneDrive\Рабочий стол\C# projects\треуголник\треуголник\bin\Debug\треуголник.pdb
+C:\Users\ant0n\OneDrive\Рабочий стол\C# projects\треуголник\треуголник\obj\Debug\треуголник.csproj.AssemblyReference.cache
+C:\Users\ant0n\OneDrive\Рабочий стол\C# projects\треуголник\треуголник\obj\Debug\треуголник.csproj.SuggestedBindingRedirects.cache
+C:\Users\ant0n\OneDrive\Рабочий стол\C# projects\треуголник\треуголник\obj\Debug\треуголник.csproj.CoreCompileInputs.cache
+C:\Users\ant0n\OneDrive\Рабочий стол\C# projects\треуголник\треуголник\obj\Debug\треуголник.exe
+C:\Users\ant0n\OneDrive\Рабочий стол\C# projects\треуголник\треуголник\obj\Debug\треуголник.pdb
